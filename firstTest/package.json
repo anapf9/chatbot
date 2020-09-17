@@ -1,0 +1,11 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ana",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
